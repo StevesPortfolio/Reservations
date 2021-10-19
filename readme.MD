@@ -3,6 +3,7 @@
 Simple Airline Reservation system written in Visual Basic as part of Certificate IV Programming course through NSW TAFE.
 
 __Specifications given__
+
 Write a reservation system for an airline flight. Assume the airplane has 40 seats. Use an array of string to maintain a seating chart. In addition, create an array to be used as a waiting list in case the plane is full.
 The waiting list should be “first come, first served”, that is people who are added early to the list get priority over people who are added later.
 Allow the user the following three options:
